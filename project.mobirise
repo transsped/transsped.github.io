@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "TRANSSPED",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -42,7 +42,11 @@
     "versionFirst": "4.7.6",
     "uniqCompNum": 12,
     "versionPublish": "4.8.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": ""
   },
   "pages": {
     "index.html": {
