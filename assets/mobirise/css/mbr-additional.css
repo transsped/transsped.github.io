@@ -2071,6 +2071,71 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #9e0707) !important;
 }
+.cid-raJyyieStP {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #9e0707;
+}
+.cid-raJyyieStP .testimonials-container {
+  margin: 0 auto;
+}
+.cid-raJyyieStP .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+  -webkit-justify-content: center;
+}
+.cid-raJyyieStP .testimonials-container .testimonials-item .user {
+  background: #55b4d4;
+}
+.cid-raJyyieStP .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-raJyyieStP .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-raJyyieStP .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-raJyyieStP .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+  padding: 2rem 2rem 2rem 0;
+}
+@media (max-width: 260px) {
+  .cid-raJyyieStP .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-raJyyieStP .testimonials-caption {
+    padding: 0 2rem 2rem 2rem !important;
+  }
+}
+.cid-raJyyieStP .user_text {
+  color: #9e0707;
+}
+.cid-raJyyieStP H2 {
+  color: #232323;
+}
+.cid-raJvb4F2Gf {
+  background: #9e0707;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background: linear-gradient(45deg, #9e0707, #e4d295);
+}
+.cid-raJvb4F2Gf .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-raJvb4F2Gf .video-block {
+    width: 100% !important;
+  }
+}
 .cid-raqI0Wa7IB {
   padding-top: 120px;
   padding-bottom: 0px;
@@ -2203,8 +2268,8 @@ body {
   color: #d91313;
 }
 .cid-raJ4j8a9Fg {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/rog-cracks-308076-1920x1080.jpg");
 }
 .cid-raJ4j8a9Fg .carousel-control {
