@@ -2090,8 +2090,8 @@ body {
   -webkit-flex-basis: auto;
 }
 .cid-raOAPfvIZb .mbr-testimonial .panel-item {
-  background-color: #55b4d4;
-  background: linear-gradient(#55b4d4, transparent);
+  background-color: #000000;
+  background: linear-gradient(#000000, transparent);
 }
 .cid-raOAPfvIZb .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -2942,85 +2942,6 @@ body {
 .cid-raDsw4wOC5 .dropdown-item:hover {
   color: #149dcc !important;
 }
-.cid-raOAUS6ieT {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/pruba-960x540.png");
-}
-.cid-raOAUS6ieT .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-raOAUS6ieT .container-table {
-  margin: 0 auto;
-}
-.cid-raOAUS6ieT .scroll {
-  overflow-x: auto;
-  padding: 0;
-}
-.cid-raOAUS6ieT .dataTables_wrapper {
-  display: block;
-}
-.cid-raOAUS6ieT .dataTables_wrapper .search {
-  margin-bottom: .5rem;
-}
-.cid-raOAUS6ieT .dataTables_wrapper .table {
-  overflow-x: auto;
-}
-.cid-raOAUS6ieT table {
-  width: 100% !important;
-  margin-top: 6px;
-  border: 1px solid #7bd8e4;
-  margin-bottom: 0;
-}
-.cid-raOAUS6ieT table th {
-  border-top: none;
-  transition: all .2s;
-  border-bottom: none;
-}
-.cid-raOAUS6ieT table th:hover {
-  background: #7bd8e4;
-  color: #000000;
-}
-.cid-raOAUS6ieT table td {
-  border-top: 1px solid #7bd8e4;
-}
-.cid-raOAUS6ieT table.table {
-  background: #7f1933;
-}
-.cid-raOAUS6ieT .dataTables_filter {
-  text-align: right;
-  margin-bottom: .5rem;
-}
-.cid-raOAUS6ieT .dataTables_filter label {
-  display: inline;
-  white-space: normal !important;
-}
-.cid-raOAUS6ieT .dataTables_filter input {
-  display: inline;
-  width: auto;
-  margin-left: .5rem;
-  border-radius: 100px;
-  padding-left: 1rem;
-}
-.cid-raOAUS6ieT .dataTables_info {
-  padding-bottom: 1rem;
-  padding-top: 1rem;
-  white-space: normal !important;
-}
-@media (max-width: 992px) {
-  .cid-raOAUS6ieT .dataTables_filter {
-    text-align: center;
-  }
-}
-@media (max-width: 350px) {
-  .cid-raOAUS6ieT .dataTables_filter {
-    text-align: center;
-  }
-  .cid-raOAUS6ieT .dataTables_filter input {
-    width: 100% !important;
-    margin-left: 0 !important;
-  }
-}
 .cid-raOB8ytJsz {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -3084,31 +3005,6 @@ body {
     justify-content: center;
     -webkit-justify-content: center;
   }
-}
-.cid-raPTQwCFs0 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/sound-waves.jpg");
-}
-.cid-raPTQwCFs0 h3 {
-  text-align: center;
-}
-.cid-raPTQwCFs0 .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-raPTQwCFs0 .mbr-content-text {
-  color: #767676;
-}
-.cid-raPTQwCFs0 .panel-item {
-  background: #ffffff;
-}
-.cid-raPTQwCFs0 .card {
-  word-wrap: break-word;
-}
-.cid-raPTQwCFs0 .mbr-iconfont {
-  font-size: 80px;
-  color: #149dcc;
 }
 .cid-raDsw4wOC5 .navbar {
   padding: .5rem 0;
