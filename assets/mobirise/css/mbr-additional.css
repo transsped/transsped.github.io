@@ -1757,7 +1757,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #149dcc !important;
+  color: #3bc119 !important;
 }
 .cid-raDH2audDn {
   background-image: url("../../../assets/images/161209-man-trans-sped-container-logistic-atadas-2000x1328.jpg");
@@ -2129,24 +2129,24 @@ body {
   }
 }
 .cid-raOAPfvIZb B {
-  color: #d91313;
+  color: #149dcc;
 }
 .cid-raOAPfvIZb .mbr-section-subtitle {
   color: #0f150f;
 }
 .cid-raOAPfvIZb .mbr-author-name {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-raOAPfvIZb .mbr-text {
   color: #3bc119;
 }
 .cid-raOAPfvIZb .mbr-section-subtitle B {
-  color: #0f150f;
+  color: #ffffff;
 }
 .cid-raIGeJjixw {
   padding-top: 30px;
   padding-bottom: 30px;
-  background: url("../../../assets/images/wp-278-1920x1080.jpg");
+  background: url("../../../assets/images/nowa-scania-oficjalnie-2016.jpg");
 }
 .cid-raIGeJjixw .mbr-section-subtitle {
   color: #d91313;
@@ -2197,7 +2197,7 @@ body {
   color: #0f150f;
 }
 .cid-raIGeJjixw .countdown-cont {
-  background: linear-gradient(45deg, #000000, #f7ffc0);
+  background: linear-gradient(45deg, #000000, #cccccc);
   max-width: 700px;
   border-radius: 3px;
   margin: 0 auto;
@@ -2244,7 +2244,7 @@ body {
 .cid-raJyyieStP {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #9e0707;
+  background-image: url("../../../assets/images/tapeta-scania-v8-s650-2017.jpg");
 }
 .cid-raJyyieStP .testimonials-container {
   margin: 0 auto;
@@ -2253,9 +2253,6 @@ body {
   justify-content: center;
   margin-top: 3rem;
   -webkit-justify-content: center;
-}
-.cid-raJyyieStP .testimonials-container .testimonials-item .user {
-  background: #55b4d4;
 }
 .cid-raJyyieStP .testimonials-container .testimonials-item .user.row {
   margin: 0;
@@ -2295,11 +2292,26 @@ body {
 .cid-raJyyieStP .user_desk B {
   color: #232323;
 }
+.cid-raJyyieStP .user_name {
+  color: #7bd8e4;
+}
+.cid-raJyyieStP .user_desk {
+  color: #ffffff;
+}
+.cid-raJyyieStP B {
+  color: #149dcc;
+}
+.cid-raJyyieStP .user_text B {
+  color: #d91313;
+}
+.cid-raJyyieStP .mbr-section-subtitle B {
+  color: #ffffff;
+}
 .cid-raJvb4F2Gf {
-  background: #9e0707;
+  background: #000000;
   padding-top: 60px;
-  padding-bottom: 60px;
-  background: linear-gradient(45deg, #9e0707, #e4d295);
+  padding-bottom: 120px;
+  background: linear-gradient(45deg, #000000, #d91313);
 }
 .cid-raJvb4F2Gf .video-block {
   margin: auto;
@@ -2312,7 +2324,7 @@ body {
 .cid-raqI0Wa7IB {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/853-park-narodowy-bryce-canyon-utah.jpg");
+  background-image: url("../../../assets/images/nvidia-wallpaper-1080p.jpg");
 }
 .cid-raqI0Wa7IB .title {
   margin-bottom: 2rem;
@@ -2940,7 +2952,35 @@ body {
 }
 .cid-raDsw4wOC5 .nav-link:hover,
 .cid-raDsw4wOC5 .dropdown-item:hover {
-  color: #149dcc !important;
+  color: #3bc119 !important;
+}
+.cid-raSmd0sKFq {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/hd-wallpapers-asus-rog-tapety-full-372568-1920x1080-wallpaper.jpg");
+}
+.cid-raSmd0sKFq h3 {
+  text-align: center;
+}
+.cid-raSmd0sKFq .mbr-section-subtitle {
+  color: #767676;
+  font-weight: 300;
+}
+.cid-raSmd0sKFq .mbr-content-text {
+  color: #767676;
+}
+.cid-raSmd0sKFq .panel-item {
+  background: #ffffff;
+}
+.cid-raSmd0sKFq .card {
+  word-wrap: break-word;
+}
+.cid-raSmd0sKFq .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
+}
+.cid-raSmd0sKFq H3 {
+  color: #7bd8e4;
 }
 .cid-raOB8ytJsz {
   padding-top: 45px;
@@ -3393,7 +3433,7 @@ body {
 }
 .cid-raDsw4wOC5 .nav-link:hover,
 .cid-raDsw4wOC5 .dropdown-item:hover {
-  color: #149dcc !important;
+  color: #3bc119 !important;
 }
 .cid-raDsw4wOC5 .navbar {
   padding: .5rem 0;
@@ -3782,7 +3822,7 @@ body {
 }
 .cid-raDsw4wOC5 .nav-link:hover,
 .cid-raDsw4wOC5 .dropdown-item:hover {
-  color: #149dcc !important;
+  color: #3bc119 !important;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -4163,7 +4203,7 @@ body {
 }
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
-  color: #149dcc !important;
+  color: #3bc119 !important;
 }
 .cid-raDsw4wOC5 .navbar {
   padding: .5rem 0;
@@ -4552,5 +4592,5 @@ body {
 }
 .cid-raDsw4wOC5 .nav-link:hover,
 .cid-raDsw4wOC5 .dropdown-item:hover {
-  color: #149dcc !important;
+  color: #3bc119 !important;
 }
