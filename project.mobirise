@@ -4292,8 +4292,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ets2-20181129-224043.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ets2-20181129-224043-800x445.png",
+                "image": "@PROJECT_PATH@/assets/images/ets2-20181201-224704.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ets2-20181201-224704-800x445.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -4305,13 +4305,26 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ets2-20181129-225421.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ets2-20181129-225421-800x445.png",
+                "image": "@PROJECT_PATH@/assets/images/ets2-20181201-224725.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ets2-20181201-224725-800x445.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
                 "caption": "Tutaj wstaw opis",
                 "active": true
+              },
+              {
+                "tags": "Animowane",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/ets2-20181201-224356.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ets2-20181201-224356-800x445.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tutaj wstaw opis",
+                "active": false
               }
             ]
           }
