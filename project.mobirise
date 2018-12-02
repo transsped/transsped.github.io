@@ -3165,7 +3165,7 @@
     ".html": {
       "settings": {
         "main": true,
-        "title": "STRONA GŁÓWNA",
+        "title": "",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
