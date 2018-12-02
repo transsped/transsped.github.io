@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TRANSSPED",
-    "currentPage": "transsped.html",
+    "currentPage": ".html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3162,7 +3162,7 @@
         }
       ]
     },
-    "transsped.html": {
+    ".html": {
       "settings": {
         "main": true,
         "title": "STRONA GŁÓWNA",
