@@ -3527,8 +3527,8 @@
                 "overlayOpacity": "0"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ets2-20181129-225442.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/11238083.199999994-ets2-20181201-223547.png",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -3564,7 +3564,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ets2-20181129-225421.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
