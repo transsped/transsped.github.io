@@ -1772,14 +1772,64 @@ body {
 }
 .cid-raSC62X3iJ .mbr-text,
 .cid-raSC62X3iJ .mbr-section-btn {
-  color: #3bc119;
+  color: #55b4d4;
 }
 .cid-raSC62X3iJ SPAN {
-  color: #f7ed4a;
+  color: #ff0000;
 }
 .cid-raSC62X3iJ .mbr-text,
 .cid-raSC62X3iJ .mbr-section-btn B {
   color: #ffffff;
+}
+.cid-raTloxsE6h {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/monster-energy-logo-black-392730.jpg");
+}
+.cid-raTloxsE6h .media-content {
+  word-wrap: break-word;
+}
+.cid-raTloxsE6h .form-inline {
+  display: block;
+}
+.cid-raTloxsE6h .form-inline .form-group {
+  padding: 0.5rem;
+  display: inline-block;
+}
+.cid-raTloxsE6h .form-inline .buttons-wrap {
+  display: inline-block;
+}
+.cid-raTloxsE6h .form-inline input {
+  text-align: center;
+}
+.cid-raTloxsE6h .mbr-figure {
+  padding-bottom: 2rem;
+}
+@media (min-width: 992px) {
+  .cid-raTloxsE6h .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-raTloxsE6h .mbr-text {
+    text-align: center;
+  }
+  .cid-raTloxsE6h .form-inline {
+    text-align: center;
+  }
+}
+@media (max-width: 768px) {
+  .cid-raTloxsE6h .form-inline input {
+    font-size: .85rem;
+  }
+}
+.cid-raTloxsE6h H1 {
+  color: #d91313;
+}
+.cid-raTloxsE6h .mbr-text,
+.cid-raTloxsE6h .mbr-section-btn,
+.cid-raTloxsE6h .form-inline {
+  color: #d9b01a;
 }
 .cid-raDsw4wOC5 .navbar {
   padding: .5rem 0;
@@ -2271,58 +2321,16 @@ body {
 .cid-raT5rqmOV5 H4 {
   color: #d9b01a;
 }
-.cid-raTloxsE6h {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/monster-energy-logo-black-392730.jpg");
-}
-.cid-raTloxsE6h .media-content {
-  word-wrap: break-word;
-}
-.cid-raTloxsE6h .form-inline {
-  display: block;
-}
-.cid-raTloxsE6h .form-inline .form-group {
-  padding: 0.5rem;
-  display: inline-block;
-}
-.cid-raTloxsE6h .form-inline .buttons-wrap {
-  display: inline-block;
-}
-.cid-raTloxsE6h .form-inline input {
-  text-align: center;
-}
-.cid-raTloxsE6h .mbr-figure {
-  padding-bottom: 2rem;
-}
-@media (min-width: 992px) {
-  .cid-raTloxsE6h .mbr-figure {
-    padding-right: 4rem;
-  }
-}
-@media (max-width: 992px) {
-  .cid-raTloxsE6h .mbr-text {
-    text-align: center;
-  }
-  .cid-raTloxsE6h .form-inline {
-    text-align: center;
-  }
-}
-@media (max-width: 768px) {
-  .cid-raTloxsE6h .form-inline input {
-    font-size: .85rem;
-  }
-}
-.cid-raTloxsE6h H1 {
-  color: #d91313;
-}
 .cid-raTH2Bbzva {
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/hd-amd-radeon-water-drops.jpg");
 }
 .cid-raTH2Bbzva .mbr-section-subtitle B {
-  color: #ffffff;
+  color: #c6e1e2;
+}
+.cid-raTH2Bbzva SPAN {
+  color: #55b4d4;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
