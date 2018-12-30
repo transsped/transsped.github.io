@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TRANSSPED",
-    "currentPage": "page5.html",
+    "currentPage": "page 2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2653,6 +2653,19 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/ets2-20181230-173403.png",
                 "thumb": "@PROJECT_PATH@/assets/images/ets2-20181230-173403-800x445.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Tutaj wstaw opis",
+                "active": false
+              },
+              {
+                "tags": "Animowane",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/download.png",
+                "thumb": "@PROJECT_PATH@/assets/images/download-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
