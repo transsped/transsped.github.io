@@ -1378,6 +1378,11 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .card-wrapper {
+    flex: auto!important;
+  }
+}
 .cid-raDsw4wOC5 .navbar {
   padding: .5rem 0;
   background: #000000;
@@ -3540,9 +3545,9 @@ body {
   color: #3bc119 !important;
 }
 .cid-raSVTquMPA {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #0f150f;
+  padding-top: 75px;
+  padding-bottom: 135px;
+  background-color: #000000;
 }
 .cid-raSVTquMPA .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -4096,68 +4101,6 @@ body {
 .cid-raDH2audDn {
   background-image: url("../../../assets/images/tapeta-happy-new-year-2019.jpg");
 }
-.cid-raDPrOmOw3 {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #149dcc;
-}
-.cid-raDPrOmOw3 .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-raDPrOmOw3 .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-raDPrOmOw3 .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-raDPrOmOw3 .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-raDPrOmOw3 .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #000000;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #000000, #9e0707) !important;
-}
-.cid-raDPrOmOw3 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-raDPrOmOw3 .mbr-gallery-item > div:hover:before {
-  opacity: 0.2 !important;
-}
-.cid-raDPrOmOw3 .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-raDPrOmOw3 .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #000000 !important;
-  opacity: 0.2;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #000000, #9e0707) !important;
-}
 .cid-raDSyG4eOx .modal-body .close {
   background: #1b1b1b;
 }
@@ -4397,13 +4340,75 @@ body {
   z-index: auto;
 }
 .cid-raDSyG4eOx P {
-  color: #55b4d4;
+  color: #ff0000;
 }
 .cid-raDSyG4eOx B {
   color: #ff0000;
 }
 .cid-raDSyG4eOx H2 {
   color: #c1c1c1;
+}
+.cid-raDPrOmOw3 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #0f7699;
+}
+.cid-raDPrOmOw3 .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-raDPrOmOw3 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-raDPrOmOw3 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-raDPrOmOw3 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-raDPrOmOw3 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #787324;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+  background: linear-gradient(to left, #787324, #9e0707) !important;
+}
+.cid-raDPrOmOw3 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-raDPrOmOw3 .mbr-gallery-item > div:hover:before {
+  opacity: 0.2 !important;
+}
+.cid-raDPrOmOw3 .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-raDPrOmOw3 .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #787324 !important;
+  opacity: 0.2;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+  background: linear-gradient(to left, #787324, #9e0707) !important;
 }
 .cid-raOAPfvIZb {
   padding-top: 90px;
