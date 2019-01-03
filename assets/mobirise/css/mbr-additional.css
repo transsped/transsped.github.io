@@ -4099,7 +4099,7 @@ body {
   color: #d9b01a;
 }
 .cid-raDH2audDn {
-  background-image: url("../../../assets/images/tapeta-happy-new-year-2019.jpg");
+  background-image: url("../../../assets/images/9519182.1-ets2-20190102-215411.png");
 }
 .cid-raDSyG4eOx .modal-body .close {
   background: #1b1b1b;
@@ -4892,6 +4892,50 @@ body {
 }
 .cid-raJ4j8a9Fg .mbr-section-subtitle B {
   color: #3bc119;
+}
+.cid-re6krboXeb {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/longmisguidedharborporpoise-size-restricted.gif");
+}
+.cid-re6krboXeb h3 {
+  text-align: center;
+  font-weight: 300;
+}
+.cid-re6krboXeb .wrap {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+}
+.cid-re6krboXeb .mbr-section-subtitle {
+  color: #cebfaf;
+}
+.cid-re6krboXeb .card {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  word-wrap: break-word;
+}
+.cid-re6krboXeb ellipse {
+  stroke: rgba(206, 206, 206, 0.4);
+}
+.cid-re6krboXeb path {
+  stroke: #55b4d4;
+}
+@media (max-width: 991px) and (min-width: 768px) {
+  .cid-re6krboXeb .card {
+    -webkit-flex-basis: 33%;
+    flex-basis: 33%;
+  }
+}
+.cid-re6krboXeb H4 {
+  color: #787324;
+  text-align: center;
+}
+.cid-re6krboXeb P {
+  color: #ffffff;
+}
+.cid-re6krboXeb .mbr-section-title {
+  color: #d9b01a;
 }
 .cid-raDsw4wOC5 .navbar {
   padding: .5rem 0;
