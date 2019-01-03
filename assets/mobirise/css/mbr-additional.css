@@ -3580,7 +3580,7 @@ body {
   background: transparent !important;
 }
 .cid-raSVTquMPA .mbr-gallery-item > div:hover:before {
-  opacity: 0.3 !important;
+  opacity: 0 !important;
 }
 .cid-raSVTquMPA .mbr-gallery-title {
   font-size: .9em;
@@ -3601,7 +3601,7 @@ body {
   z-index: -1;
   position: absolute;
   background: #d91313 !important;
-  opacity: 0.3;
+  opacity: 0;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #d91313, #232323) !important;
