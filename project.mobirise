@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TRANSSPED",
-    "currentPage": "transsped.html",
+    "currentPage": "page 2.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2705,32 +2705,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/47863865.99999998-ets2-20181230-230822.png",
                 "thumb": "@PROJECT_PATH@/assets/images/47863865.99999998-ets2-20181230-230822-800x450.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
-                "active": false
-              },
-              {
-                "tags": "Animowane",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ets2-20190102-215338.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ets2-20190102-215338-800x450.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Tutaj wstaw opis",
-                "active": false
-              },
-              {
-                "tags": "Animowane",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/ets2-20190102-214901.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ets2-20190102-214901-800x450.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
