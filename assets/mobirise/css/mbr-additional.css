@@ -4098,6 +4098,70 @@ body {
 .cid-raSYm4Rq50 SPAN {
   color: #d9b01a;
 }
+.cid-re870b6Kn6 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/jak-biuro-moze-zmotywowac-pracownika-10-6-7-2000x1200.jpg");
+}
+.cid-re870b6Kn6 .media-container-column {
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-re870b6Kn6 .mbr-author-desc {
+  display: block;
+  color: #000000;
+}
+.cid-re870b6Kn6 .mbr-testimonial {
+  flex-basis: auto;
+  margin-top: 5rem;
+  -webkit-flex-basis: auto;
+  margin-top: 3rem;
+}
+.cid-re870b6Kn6 .mbr-testimonial .panel-item {
+  background-color: #000000;
+  background: linear-gradient(#000000, transparent);
+}
+.cid-re870b6Kn6 .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2rem;
+}
+.cid-re870b6Kn6 .mbr-testimonial .card-block .testimonial-photo {
+  margin-top: -5rem;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-re870b6Kn6 .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-re870b6Kn6 .mbr-testimonial .card-block p {
+  margin: 0;
+}
+.cid-re870b6Kn6 .mbr-testimonial .card-footer {
+  padding: 0 2rem 2rem 2rem;
+  border-top: 0;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 260px) {
+  .cid-re870b6Kn6 .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-re870b6Kn6 B {
+  color: #ff0000;
+}
+.cid-re870b6Kn6 .mbr-section-subtitle B {
+  color: #000000;
+}
 .cid-raDH2audDn {
   background-image: url("../../../assets/images/9519182.1-ets2-20190102-215411.png");
 }
@@ -4480,7 +4544,7 @@ body {
   color: #d91313;
 }
 .cid-raOAPfvIZb .mbr-section-subtitle B {
-  color: #ffffff;
+  color: #3bc119;
 }
 .cid-raOAPfvIZb .mbr-text B {
   color: #ff0000;
