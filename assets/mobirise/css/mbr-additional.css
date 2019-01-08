@@ -2010,11 +2010,11 @@ body {
   color: #ffffff;
 }
 .cid-retv42GEhP B {
-  color: #cccccc;
+  color: #149dcc;
 }
 .cid-retvinMy70 {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 45px;
   background-color: #000000;
 }
 .cid-retvinMy70 .mbr-slider .carousel-control {
@@ -2048,7 +2048,7 @@ body {
   background: transparent !important;
 }
 .cid-retvinMy70 .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.5 !important;
 }
 .cid-retvinMy70 .mbr-gallery-title {
   font-size: .9em;
@@ -2069,7 +2069,7 @@ body {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.7;
+  opacity: 0.5;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
@@ -4044,7 +4044,7 @@ body {
   }
 }
 .cid-reuJlEikPx B {
-  color: #ef0e0e;
+  color: #e12821;
 }
 .cid-revzh8kC9a {
   padding-top: 90px;
@@ -4932,6 +4932,69 @@ body {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #149dcc !important;
+}
+.cid-rexC3iEfFL {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/wallpaper.wiki-hd-asus-rog-backgrounds-pic-wpc0011075-1920x1080.jpg");
+}
+.cid-rexC3iEfFL .media-container-column {
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rexC3iEfFL .mbr-author-desc {
+  display: block;
+  color: #ef0e0e;
+}
+.cid-rexC3iEfFL .mbr-testimonial {
+  flex-basis: auto;
+  margin-top: 5rem;
+  -webkit-flex-basis: auto;
+}
+.cid-rexC3iEfFL .mbr-testimonial .panel-item {
+  background-color: #000000;
+  background: linear-gradient(#000000, transparent);
+}
+.cid-rexC3iEfFL .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2rem;
+}
+.cid-rexC3iEfFL .mbr-testimonial .card-block .testimonial-photo {
+  margin-top: -5rem;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-rexC3iEfFL .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rexC3iEfFL .mbr-testimonial .card-block p {
+  margin: 0;
+}
+.cid-rexC3iEfFL .mbr-testimonial .card-footer {
+  padding: 0 2rem 2rem 2rem;
+  border-top: 0;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 260px) {
+  .cid-rexC3iEfFL .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-rexC3iEfFL H2 {
+  color: #5bcc29;
+}
+.cid-rexC3iEfFL .mbr-section-subtitle {
+  color: #ffffff;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
