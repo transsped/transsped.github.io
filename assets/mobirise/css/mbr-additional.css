@@ -42,10 +42,10 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1.8rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 2.88rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.44rem;
+    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -2735,6 +2735,12 @@ body {
 .cid-reuCZXaaP4 {
   background-image: url("../../../assets/images/volvo-fh-con-nuovo-paraurti-per-applicazioni-impegnative-e-condizioni-difficili-t2015-0242-low-res-1200x800.jpg");
 }
+.cid-reHxHL1bF9 {
+  background-image: url("../../../assets/images/tapetus-pl-2000x1500.jpg");
+}
+.cid-reHxHL1bF9 H1 {
+  color: #f9f295;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #000000;
@@ -4551,6 +4557,9 @@ body {
 }
 .cid-rev7PiIxI1 .mbr-text {
   color: #ef0e0e;
+}
+.cid-rev7PiIxI1 B {
+  color: #b2ccd2;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
