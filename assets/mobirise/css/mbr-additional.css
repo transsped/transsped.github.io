@@ -5082,6 +5082,148 @@ body {
 .cid-rexC3iEfFL .mbr-section-subtitle {
   color: #ffffff;
 }
+.cid-rf3eIgXkgp {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/wallpaper.wiki-hd-asus-rog-backgrounds-pic-wpc0011075-1920x1080.jpg");
+}
+.cid-rf3eIgXkgp .media-container-column {
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rf3eIgXkgp .mbr-author-desc {
+  display: block;
+  color: #e12821;
+}
+.cid-rf3eIgXkgp .mbr-testimonial {
+  flex-basis: auto;
+  margin-top: 5rem;
+  -webkit-flex-basis: auto;
+}
+.cid-rf3eIgXkgp .mbr-testimonial .panel-item {
+  background-color: #efefef;
+  background: linear-gradient(#efefef, transparent);
+}
+.cid-rf3eIgXkgp .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2rem;
+}
+.cid-rf3eIgXkgp .mbr-testimonial .card-block .testimonial-photo {
+  margin-top: -5rem;
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
+  border-radius: 50%;
+}
+.cid-rf3eIgXkgp .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rf3eIgXkgp .mbr-testimonial .card-block p {
+  margin: 0;
+}
+.cid-rf3eIgXkgp .mbr-testimonial .card-footer {
+  padding: 0 2rem 2rem 2rem;
+  border-top: 0;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 260px) {
+  .cid-rf3eIgXkgp .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+.cid-rf371vSaf0 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/thumb-1920-756102-1920x1200.jpg");
+}
+.cid-rf371vSaf0 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rf371vSaf0 .container-table {
+  margin: 0 auto;
+}
+.cid-rf371vSaf0 .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rf371vSaf0 .dataTables_wrapper {
+  display: block;
+}
+.cid-rf371vSaf0 .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rf371vSaf0 .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rf371vSaf0 table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #ef0e0e;
+  margin-bottom: 0;
+}
+.cid-rf371vSaf0 table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rf371vSaf0 table th:hover {
+  background: #ef0e0e;
+  color: #ffffff;
+}
+.cid-rf371vSaf0 table td {
+  border-top: 1px solid #ef0e0e;
+}
+.cid-rf371vSaf0 .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rf371vSaf0 .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rf371vSaf0 .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rf371vSaf0 .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rf371vSaf0 .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rf371vSaf0 .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rf371vSaf0 .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-rf371vSaf0 .body-item {
+  color: #c4bc3b;
+}
+.cid-rf371vSaf0 .head-item {
+  color: #ffffff;
+}
+.cid-rf371vSaf0 .mbr-section-title {
+  color: #ff7f9f;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #000000;
