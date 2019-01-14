@@ -5166,7 +5166,7 @@ body {
 .cid-rf371vSaf0 table {
   width: 100% !important;
   margin-top: 6px;
-  border: 1px solid #ef0e0e;
+  border: 1px solid #5bcc29;
   margin-bottom: 0;
 }
 .cid-rf371vSaf0 table th {
@@ -5175,11 +5175,11 @@ body {
   border-bottom: none;
 }
 .cid-rf371vSaf0 table th:hover {
-  background: #ef0e0e;
-  color: #ffffff;
+  background: #5bcc29;
+  color: #000000;
 }
 .cid-rf371vSaf0 table td {
-  border-top: 1px solid #ef0e0e;
+  border-top: 1px solid #5bcc29;
 }
 .cid-rf371vSaf0 .dataTables_filter {
   text-align: right;
@@ -5216,13 +5216,13 @@ body {
   }
 }
 .cid-rf371vSaf0 .body-item {
-  color: #c4bc3b;
+  color: #7e83cf;
 }
 .cid-rf371vSaf0 .head-item {
   color: #ffffff;
 }
 .cid-rf371vSaf0 .mbr-section-title {
-  color: #ff7f9f;
+  color: #ef0e0e;
 }
 .cid-rf4TyeeuRh {
   padding-top: 90px;
