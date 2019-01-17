@@ -2736,7 +2736,7 @@ body {
   background-image: url("../../../assets/images/magazyn1-1632x918.jpg");
 }
 .cid-reHxHL1bF9 {
-  background-image: url("../../../assets/images/tapetus-pl-2000x1500.jpg");
+  background-image: url("../../../assets/images/bd80a5ea2ff3ef08d74de1dc6b73adff-1280x640.jpg");
 }
 .cid-reHxHL1bF9 H1 {
   color: #b2ccd2;
@@ -3667,8 +3667,14 @@ body {
 .cid-rf8bTL6fhw .mbr-section-btn {
   color: #ef0e0e;
 }
+.cid-rffHDxAlmC {
+  background-image: url("../../../assets/images/scania-5-logo-png-transparent-2000x2000.png");
+}
 .cid-rf8eb60e0H {
-  background-image: url("../../../assets/images/man-niepolomice-11-800x531.jpg");
+  background-image: url("../../../assets/images/top-16266-377-1760x770.jpg");
+}
+.cid-rf8eb60e0H H1 {
+  color: #ffffff;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -4151,6 +4157,9 @@ body {
 .cid-reuJlEikPx B {
   color: #e12821;
 }
+.cid-rfrv3k6H6i {
+  background-image: url("../../../assets/images/47785318.99999996-ets2-20181231-231-1920x1080.png");
+}
 .cid-revzh8kC9a {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -4169,8 +4178,8 @@ body {
   -webkit-flex-basis: auto;
 }
 .cid-revzh8kC9a .mbr-testimonial .panel-item {
-  background-color: #ffffff;
-  background: linear-gradient(#ffffff, transparent);
+  background-color: #000000;
+  background: linear-gradient(#000000, transparent);
 }
 .cid-revzh8kC9a .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -4214,7 +4223,7 @@ body {
   color: #e12821;
 }
 .cid-revzh8kC9a .mbr-text {
-  color: #000000;
+  color: #cccccc;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -5249,7 +5258,7 @@ body {
 .cid-rf4TyeeuRh {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/nvidia-geforce-1920x1080.jpg");
+  background-image: url("../../../assets/images/batman-logo-wallpapers-full-hd-on-wallpaper-hd-1920x1200.png");
 }
 .cid-rf4TyeeuRh .carousel-control {
   background: #000;
@@ -5837,7 +5846,7 @@ body {
 .cid-revIsQePA9 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background-image: url("../../../assets/images/3vyjrb3-1920x1080.jpg");
+  background-image: url("../../../assets/images/new-generation-scania-r-s-2000x1125.jpg");
 }
 .cid-revIsQePA9 .title {
   margin-bottom: 2rem;
@@ -5868,5 +5877,5 @@ body {
   color: #ef0e0e;
 }
 .cid-revIsQePA9 LABEL {
-  color: #ff7f9f;
+  color: #ffffff;
 }
