@@ -4093,7 +4093,7 @@ body {
   }
 }
 .cid-reuJlEikPx B {
-  color: #e12821;
+  color: #ef0e0e;
 }
 .cid-rgbXIVSc4t {
   padding-top: 90px;
@@ -4186,7 +4186,7 @@ body {
   backface-visibility: visible;
 }
 .cid-rgbXIVSc4t .mbr-section-title B {
-  color: #ef0e0e;
+  color: #e12821;
 }
 .cid-rgbXIVSc4t H4 {
   color: #ef0e0e;
@@ -4283,6 +4283,91 @@ body {
 }
 .cid-rgc2MZ9w7Q .mbr-section-title {
   color: #5bcc29;
+}
+.cid-rhcsKjwRPS {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #000000;
+}
+.cid-rhcsKjwRPS .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rhcsKjwRPS .container-table {
+  margin: 0 auto;
+}
+.cid-rhcsKjwRPS .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-rhcsKjwRPS .dataTables_wrapper {
+  display: block;
+}
+.cid-rhcsKjwRPS .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-rhcsKjwRPS .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-rhcsKjwRPS table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #ffffff;
+  margin-bottom: 0;
+}
+.cid-rhcsKjwRPS table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-rhcsKjwRPS table th:hover {
+  background: #ffffff;
+  color: #000000;
+}
+.cid-rhcsKjwRPS table td {
+  border-top: 1px solid #ffffff;
+}
+.cid-rhcsKjwRPS .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-rhcsKjwRPS .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-rhcsKjwRPS .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-rhcsKjwRPS .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-rhcsKjwRPS .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-rhcsKjwRPS .dataTables_filter {
+    text-align: center;
+  }
+  .cid-rhcsKjwRPS .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-rhcsKjwRPS .mbr-section-title {
+  color: #149dcc;
+}
+.cid-rhcsKjwRPS .head-item {
+  color: #ffffff;
+}
+.cid-rhcsKjwRPS .body-item {
+  color: #0bc1c1;
 }
 .cid-rgqCa6P4m7 {
   padding-top: 90px;
